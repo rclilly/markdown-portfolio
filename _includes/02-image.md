@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Robert Lilly](https://secure.gravatar.com/avatar/52491e2312c332365785a2a85941da14)
